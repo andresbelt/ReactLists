@@ -7,5 +7,5 @@ I will describe for you some problems that I had with this project some worst su
 
 Uses this librarys
 
-SQLITE /n
+SQLITE
 TEXT FIELD 
